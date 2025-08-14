@@ -115,7 +115,7 @@ I specialize in designing scalable architectures, building CI/CD pipelines, and 
 **Relevant Coursework:** Programming (C++, Java), Data Structures & Algorithms, Software Engineering, Database Systems
 
 **🏫 Presbyterian Boys' Secondary School (PRESEC), Legon**  
-**📚 General Science** | *High School Diploma*
+**📚 General Science** | *High School*
 
 ---
 
