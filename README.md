@@ -48,7 +48,7 @@ Experienced DevOps engineer with a strong background in automating and optimizin
 ### 📊 Big Data & Analytics
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)orsley Quaye 👋
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 🚀 **Senior DevOps & Cloud Engineer** | AWS Certified | Azure | Cybersecurity Enthusiast
 
