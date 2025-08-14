@@ -4,7 +4,7 @@
 
 Experienced DevOps engineer with a strong background in automating and optimizing the software development and deployment process. Proven ability to work effectively in team environments with strong problem-solving skills, implementing continuous integration and delivery pipelines while monitoring and maintaining highly available systems.
 
-📍 **Location:** Teshie, Accra - Ghana  
+📍 **Location:** Accra - Ghana  
 📧 **Email:** quayeworsley@gmail.com  
 🌐 **Website:** [quayeworsley.vercel.app](https://quayeworsley.vercel.app/)  
 📱 **Phone:** +233202955869
