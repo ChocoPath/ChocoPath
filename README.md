@@ -37,7 +37,7 @@ I specialize in designing scalable architectures, building CI/CD pipelines, and 
 ## 📫 Connect With Me
 - **Portfolio:** [quayeworsley.vercel.app](https://quayeworsley.vercel.app)
 - **LinkedIn:** [linkedin.com/in/worsleyquaye](https://linkedin.com/in/worsleyquaye)
-- **GitHub:** [github.com/WorsleyQuaye](https://github.com/WorsleyQuaye)
+- **GitHub:** [github.com/WorsleyQuaye](https://github.com/ChocoPath)
 
 ---
 
